@@ -1,5 +1,7 @@
 # PostDeck releases
 
+PostDeck is made by Cribian.
+
 This repo holds the PostDeck installers for Windows. The source code is not in this repo.
 
 ## Install
