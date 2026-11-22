@@ -40,9 +40,9 @@ Keep the NVIDIA driver up to date. A second clip job at the same time waits unti
 
 Studio is the clip maker in PostDeck. It is built on [OpenShorts](https://github.com/mutonby/openshorts) by mutonby (MIT license).
 
-1. In PostDeck, open **Studio > Server**.
-2. Click **Set up Studio**. PostDeck downloads Python, the Python packages and ffmpeg one time. Studio then uses about 2.5 GB without an NVIDIA card and about 8 GB with one.
-3. Under **AI model**, paste a Gemini API key. You can get one free at https://aistudio.google.com/apikey. If you pay for Claude or OpenAI, or run a local model, select it there and paste its key.
+1. In PostDeck, open **Studio > Setup**.
+2. Under **AI model**, paste a Gemini API key. You can get one free at https://aistudio.google.com/apikey. If you pay for Claude or OpenAI, or run a local model, select it there and paste its key.
+3. Click **Set up Studio**. PostDeck downloads Python, the Python packages and ffmpeg one time. Studio then uses about 2.5 GB without an NVIDIA card and about 8 GB with one.
 
 ## Updates
 
