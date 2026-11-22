@@ -29,7 +29,7 @@ PostDeck is a Windows app that makes, schedules and posts short videos. Cribian 
 | TikTok | The video and the post text, with your login. PostDeck also reads the statistics of your videos. | When a post goes out, and on the Analytics page |
 | Facebook and Instagram (Meta) | The video and the post text, with your login. PostDeck also reads the statistics of your posts. | When a post goes out, and on the Analytics page |
 | Bluesky | The video and the post text, with your handle and app password | When a post goes out, and on the Analytics page |
-| A posting service, for example Upload-Post | The video and the post text, with your key for that service | Only when you set a posting service in **Settings** → **Posting service** |
+| A posting service, for example Upload-Post | The video and the post text, with your key for that service | Only when you set a posting service in **Settings** → **Advanced** |
 | Twitch and Kick | Your channel name | While the live clipper reads your public chat |
 | The AI model from the Studio page: Google Gemini, Anthropic Claude, OpenAI, or your own server | The transcript of the video, the word times and the stream title. Gemini also gets still frames, short copies of clips and, for a video without speech, the video file. | When Studio makes or edits clips |
 | GitHub | A request for the newest PostDeck version | When PostDeck starts, and every 10 minutes |
